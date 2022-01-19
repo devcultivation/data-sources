@@ -1,4 +1,4 @@
-Abbrv,Name,Record,Scored,Allowed
+team_id,team_name,team_record,points_scored,points_allowed
 ATL,Atlanta Hawks,17-24,4531,4586
 BKN,Boston Celtics,21-22,4625,4554
 BOS,Brooklyn Nets,26-15,4573,4477
