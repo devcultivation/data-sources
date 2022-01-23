@@ -1,2 +1,2 @@
-# data-sources
-Repository of data sources for public access
+# devcultivation.com data sources
+Repository of devcultivation.com data sources for public access
